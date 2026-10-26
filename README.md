@@ -62,7 +62,7 @@ Below is the comparative breakdown of premier enterprise ITOM suites, sorted in 
 
 ## 💻 Open-Source ITOM & Observability Projects
 
-Open-source ITOM solutions empower organizations to build sovereign, license-free, and vendor-neutral monitoring, telemetry, and incident management pipelines. The projects below are **sorted in descending order by GitHub stars**:
+Open-source ITOM solutions empower organizations to build sovereign, license-free, and vendor-neutral monitoring, telemetry, and incident management pipelines. The projects below are **sorted in descending order by GitHub_Stars**:
 
 1. **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** [![Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
    Lightweight, self-hosted uptime monitoring dashboard supporting HTTP(s), TCP, Ping, DNS, Docker container checks, and status pages with 90+ notification channels.
@@ -148,7 +148,7 @@ Contributions are welcome and appreciated! To maintain the highest quality:
 
 1. 🍴 Fork the repository.
 2. 🌿 Create a feature branch: `git checkout -b feature/add-new-itom-platform`.
-3. 📝 Update `README.md` following the established formatting, table structure, or star badge conventions.
+3. 📝 Update `README.md` following the established formatting, table structure, or Stars_Badge conventions.
 4. ✅ Ensure data accuracy, official links, transparent pricing, and neutral descriptive wording.
 5. 🚀 Submit a Pull Request with a clear description of the addition.
 
